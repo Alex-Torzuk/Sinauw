@@ -119,12 +119,14 @@ body {
     background: #F5443B;
     border-radius: 6px;
     border: none;
+    cursor: pointer;
 }
 
 .button_header {
     width: 102px;
     height: 41px;
     color: #FFFFFF;
+
 }
 
 .button_div {
@@ -132,7 +134,7 @@ body {
     margin-top: -8px;
 }
 
-.section_1 {
+/* .section_1 {
     display: flex;
 }
 
@@ -146,7 +148,7 @@ body {
     position: relative;
     bottom: 150px;
     left: 15px;
-}
+} */
 
 
 /* .circle_red_1 {
