@@ -16,9 +16,7 @@ body {
     margin-left: 120px;
     margin-right: 120px;
     margin-top: 26px;
-    margin-bottom: 205px;
-    display: flex;
-
+    margin-bottom: 216px;
 }
 
 .header_flex {
@@ -29,22 +27,6 @@ body {
 
 
 
-/* .sinauw11 {
-    position: absolute;
-}*/
-
-.sinauw11_circle {
-    position: relative;
-    bottom: 33px;
-    left: 15px;
-}
-
-.sinauw11_circle01 {
-    position: relative;
-    left: 57px;
-    bottom: 19px;
-}
-
 .nav {
     margin-left: 148px;
 }
@@ -52,7 +34,6 @@ body {
 .header_nav {
     display: flex;
     list-style-type: none;
-
 }
 
 .nav__li {
@@ -61,7 +42,7 @@ body {
 
 .nav__li:last-child {
     margin-right: 0px;
-    /* margin: 0px 44px; */
+    
 }
 
 .nav__link_push {
@@ -134,160 +115,94 @@ body {
     margin-top: -8px;
 }
 
-/* .section_1 {
+ .section_1_flex {
     display: flex;
 }
 
-.section_1_left_elem {
-    position: relative;
-
-
-}
-
 .section_1_left_girl {
-    position: relative;
-    bottom: 150px;
-    left: 15px;
-} */
-
-
-/* .circle_red_1 {
-    position: relative;
-    left: -170px;
-    bottom: 880px;
+    position: absolute;
+    right: 550px;
+    top: 120px;
 }
 
 
-.circle_blue_1 {
+/* .bord_people {
     position: relative;
-    left: -300px;
-    top: -830px;
-}
-
-.square_book {
-    position: relative;
-    left: -255px;
-    top: -752px;
-}
-
-.book {
-    position: relative;
-    left: -330px;
-    top: -773px;
-}
-
-
-.circle_red_2 {
-    position: relative;
-    left: -870px;
-    top: -780px;
-}
-
-.circle_orange {
-    position: relative;
-    left: -230px;
-    bottom: 818px;
-}
-
-.cquare_left {
-    position: relative;
-    top: -518px;
-    left: -908px;
-}
-
-.bulb {
-    position: relative;
-    top: -540px;
-    left: -991px;
-} */
-
-/*
-.circle_red_3 {
-    position: relative;
-    bottom: 1px;
-    left: -790px;
-}
-
-.circle_orange2 {
-    position: relative;
-    bottom: -60px;
-    left: -540px;
-}
-
-.circle_blue_2 {
-    position: relative;
-    bottom: 1px;
-    left: -395px;
-}
-
-.bord_people {
-    position: relative;
-    bottom: 123px;
-    left: 395px;
+    bottom: 45px;
+    right: 270px;
 }
 
 .bord_people-1 {
     position: relative;
-    bottom: 143px;
-    left: 45px;
+    bottom: 65px;
+    right: 620px;
 }
 
 .bord_people-2 {
     position: relative;
-    bottom: 143px;
-    left: 26px;
+    bottom: 65px;
+    right: 640px;
 }
 
 .bord_people-3 {
     position: relative;
-    bottom: 143px;
-    left: 7px;
+    bottom: 65px;
+    right: 660px;
 }
 
 .bord_people-4 {
     position: relative;
-    bottom: 143px;
-    left: -12px;
+    bottom: 65px;
+    right: 680px;
 }
 
 .bord_people-5 {
     position: relative;
-    bottom: 143px;
-    left: -31px;
-}
-
-.bord_people-6 {
-    position: relative;
-    bottom: 165px;
-    left: -70.5px;
-}
-
-.bord_people-7 {
-    position: relative;
-    bottom: 158px;
-    left: -85.5px;
+    bottom: 65px;
+    right: 700px;
 }
 
 .section_1_left-p1 {
-    position: relative;
+    position: absolute;
     font-weight: 500;
     font-size: 14px;
     line-height: 160%;
     color: #BBBBC4;
-    bottom: 194px;
-    left: 630px;
-}
+    top: 780px;
+    right: 630px;
+} 
 
 .section_1_left-p2 {
-    position: relative;
+    position: absolute;
     font-weight: 500;
     font-size: 14px;
     line-height: 160%;
     color: #BBBBC4;
-    bottom: 193px;
-    left: 630px;
+    top: 805px;
+    right: 627px;
 }
 
 .section_1_left-span {
     color: red;
 } */
+
+.yourSkills {
+    width: 484px;
+    height: 219px;
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 130%;
+    letter-spacing: -0.01em;
+    color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 24px;
+}
+
+.have_something {
+    width: 478px;
+    height: 27px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: rgba(255, 255, 255, 0.4);
+}
