@@ -299,6 +299,7 @@ background: #1F2143;
     line-height: 150%;
     color: rgba(255, 255, 255, 0.8);
     text-align: center;
+    margin-bottom: 20px;
 }
 
 .section_3_p {
@@ -401,6 +402,45 @@ background: #1F2143;
     border: 1px solid #F5443B;
     margin-left: 590px;
     margin-bottom: 150px;
+}
+
+.section_4_more_videos{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 150%;
+    color: #D1D1D7;
+    text-shadow: 0px 5px 10px #2E3062;
+    margin-bottom: 20px;
+    margin-left: 900px;
+}
+
+
+.section_4_border-buttom {
+    border-bottom: 1px solid red;
+    width: 800px;
+    margin-left: 270px;
+    margin-bottom: 220px;
+}
+
+.section_5_media_flex{
+    display: flex;
+}
+
+.section_5_media_flex_blocks {
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 20px;
+    background-color: #1F2143;
+    width: 372px;
+}
+
+.section_5_media_flex_blocks_top {
+    display: flex;
+    padding: 30px;
+}
+
+.section_5_vector {
+    padding: 5px;
+    border: 1px solid #3BF5BD;
 }
 
 
